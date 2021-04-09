@@ -2,66 +2,38 @@
     "blog": [
         {
             "id": 1,
-            "judul": "americano",
+            "judul": "americano 1",
             "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
-            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/tn-01.jpg",
-            "kategori": "Popular Item"
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-1.jpg",
+            "harga": "$30"
         },
         {
             "id": 2,
-            "judul": "Mauris in odio vel odio",
-            "deskripsi": "You may need TemplateMo for a quick chat or send an email if you have any question about this CSS template. font-family: 'Source Sans Pro', sans-serif; for this template.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-02.jpg",
-            "kategori": "Drone Shots"
+            "judul": "americano 2",
+            "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-2.jpg",
+            "harga": "$20"
         },
         {
             "id": 3,
-            "judul": "Sagittis sodales enim",
-            "deskripsi": "You are allowed to use this video catalog for your business websites. Please do not make a re-distribution of our template ZIP file on any template collection website.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-03.jpg",
-            "kategori": "Nature"
+            "judul": "americano 3",
+            "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-3.jpg",
+            "harga": "$15"
         },
         {
             "id": 4,
-            "judul": "Nam tincidunt consectetur",
-            "deskripsi": "You can apply this template for your commercial CMS theme. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-04.jpg",
-            "kategori": "Nature"
+            "judul": "americano 4",
+            "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-4.jpg",
+            "harga": "$25"
         },
         {
             "id": 5,
-            "judul": "Praesent posuere rhoncus",
-            "deskripsi": "Duis vulputate nisl metus, eget dapibus nunc ultricies id. Ut augue mauris, varius quis nulla non, sollicitudin consectetur nisl. Donec eget arcu placerat, ullamcorper.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-05.jpg",
-            "kategori": "Featured"
+            "judul": "americano 5",
+            "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-5.jpg",
+            "harga": "$45"
         },
-        {
-            "id": 6,
-            "judul": "Turpis massa aliquam",
-            "deskripsi": "Nunc neque risus, ultrices sed luctus at, iaculis at arcu. Pellentesque rutrum velit nec sapien ullamcorper ultrices. Vestibulum lectus risus, laoreet pretium ipsum",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-06.jpg",
-            "kategori": "Nature"
-        },
-        {
-            "id": 7,
-            "judul": "Class aptent taciti sociosqu",
-            "deskripsi": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus bibendum orci sit amet dignissim rhoncus. Pellentesque pretium faucibus vestibulum.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-07.jpg",
-            "kategori": "Action"
-        },
-        {
-            "id": 8,
-            "judul": "Donec ac nisl ul elit",
-            "deskripsi": "Suspendisse in odio congue, lobortis metus sed, venenatis nisl. In dapibus et massa feugiat facilisis. Maecenas venenatis aliquet nulla, a tincidunt erat suscipit eget.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-08.jpg",
-            "kategori": "Action"
-        },
-        {
-            "id": 9,
-            "judul": "Sed mattis nisi erat",
-            "deskripsi": "Integer ultricies mi eu aliquet cursus. Nam sem leo, imperdiet non lacinia eget, volutpat ac massa. Donec mattis in velit quis commodo. Cras nec rutrum arcu.",
-            "gambar": "https://raw.githubusercontent.com/PanduDLaksono/PanduDLaksono.github.io/master/img/tn-09.jpg",
-            "kategori": "Featured"
-        }
     ]
 }
