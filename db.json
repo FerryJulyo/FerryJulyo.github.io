@@ -4,35 +4,35 @@
             "id": 1,
             "judul": "americano 1",
             "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
-            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-1.jpg",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/Img/menu-1.jpg",
             "harga": "$30"
         },
         {
             "id": 2,
             "judul": "americano 2",
             "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
-            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-2.jpg",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/Img/menu-2.jpg",
             "harga": "$20"
         },
         {
             "id": 3,
             "judul": "americano 3",
             "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
-            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-3.jpg",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/Img/menu-3.jpg",
             "harga": "$15"
         },
         {
             "id": 4,
             "judul": "americano 4",
             "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
-            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-4.jpg",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/Img/menu-4.jpg",
             "harga": "$25"
         },
         {
             "id": 5,
             "judul": "americano 5",
             "deskripsi": "Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. sed ipsum.",
-            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/img/menu-5.jpg",
+            "gambar": "https://raw.githubusercontent.com/FerryJulyo/FerryJulyo.github.io/master/Img/menu-5.jpg",
             "harga": "$45"
         },
     ]
